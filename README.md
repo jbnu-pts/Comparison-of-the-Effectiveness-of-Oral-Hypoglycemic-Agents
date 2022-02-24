@@ -21,3 +21,5 @@
 ![image](https://user-images.githubusercontent.com/100256821/155481526-b0b8d1f4-6377-4861-baa4-fe4b7bb09a64.png)
 
 `-` Running 'Meta.R' Code
+
+![수정됨_1_F7_2_D1](https://user-images.githubusercontent.com/100256821/155483322-889ad789-2215-49cc-beea-51d26cdc80c0.jpg)
