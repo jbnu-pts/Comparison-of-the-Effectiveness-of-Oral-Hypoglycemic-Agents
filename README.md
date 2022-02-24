@@ -18,4 +18,6 @@
 
 `-` Binding multi-center result from \Output\analysisSummary.csv (rr->HR, ci95lb->lower.HR, ci95ub->upper.HR, target->TargetN, comparator->compN)
 
+![image](https://user-images.githubusercontent.com/100256821/155481526-b0b8d1f4-6377-4861-baa4-fe4b7bb09a64.png)
 
+`-` Running 'Meta.R' Code
